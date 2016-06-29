@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Project1.0.iml" filepath="$PROJECT_DIR$/Project1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WXText/WXText.iml" filepath="$PROJECT_DIR$/WXText/WXText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloServer/helloServer.iml" filepath="$PROJECT_DIR$/helloServer/helloServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oa/oa.iml" filepath="$PROJECT_DIR$/oa/oa.iml" />
+    </modules>
+  </component>
+</project>
