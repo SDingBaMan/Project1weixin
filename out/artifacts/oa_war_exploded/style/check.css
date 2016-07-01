@@ -1,0 +1,96 @@
+@CHARSET "UTF-8";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.bigDiv{
+	margin:0 auto;
+	margin-top:20px;
+	width:500px;
+	border:1px solid #08273b;
+}
+
+.title{
+	margin:0 auto;
+	height:35px;
+	text-align:center;
+	background-color:#08273b;
+	color:white;
+	letter-spacing:5px;
+	font-size:20px;
+	line-height:35px;
+}
+
+.days{
+	width:100%;
+	height:20px;
+	text-align:center;
+	margin-top:20px;
+}
+
+.days input{
+	width:50px;
+}
+
+.reason{
+	width:100%;
+	height:110px;
+	margin-top:20px;
+	text-align:center;
+}
+
+.reason textarea{
+	margin-top:10px;
+	font-size:18px;
+}
+
+.submit{
+	margin-top:40px;
+	margin-bottom:10px;
+}
+
+.submit input{
+	display:block;
+	margin:0 auto;
+	width:100px;
+	height:40px;
+	background-color:gray;
+	color:white;
+	border:0px;
+	font-size:20px;
+	letter-spacing:5px;
+	cursor:pointer;
+}
+
+.applys{
+	width:100%;
+	text-align:center;
+}
+
+.applys tr td{
+	width:150px;
+	height:25px;
+}
+
+.applys thead{
+	background-color:gray;
+	border:0px;
+	color:white;
+}
+
+.applys thead tr{
+	height:40px;
+}
+
+.button{
+	display:block;
+	width:50px;
+	text-align:center;
+	float:left;
+	margin-left:1px;
+}
+.button a:visited{
+	color:black;
+}

@@ -1,0 +1,97 @@
+@CHARSET "UTF-8";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	margin:0 auto;
+	background:#08273b;
+	color:white;
+	text-align:center;
+	font-family:"Times New Roman";
+}
+
+input,select{
+	outline:medium;
+}
+
+#bigDiv{
+	width:660px;
+	height:360px;
+	margin:0 auto;
+	margin-top:130px;
+}
+
+.midDiv{
+	width:100%;
+}
+.midDiv form{
+	margin-top:30px;
+}
+#title{
+	font-size:50px;
+	font-weight:bold;
+	text-align:center;
+	line-height:80px;
+	font-family:"楷体";
+	letter-spacing:2px;
+}
+
+.title2{
+	height:40px;
+	width:90px;
+	float:left;
+	margin-top:12px;;
+}
+
+.msg{
+	width:420px;
+	height:50px;
+	font-size:25px;
+	margin:0 auto;
+	margin-bottom:15px;
+}
+.msg input{
+	margin-top:10px;;
+	margin-bottom:15px;
+	margin-left:10px;
+	height:40px;
+	width:300px;
+	font-size:120%;
+	background-color:#77858d;
+	color:white;
+	border:0px;
+	float:left;
+}
+.msg select{
+	margin-top:10px;
+	margin-bottom:15px;
+	margin-left:10px;
+	height:40px;
+	width:300px;
+	font-size:120%;
+	background-color:#77858d;
+	color:white;
+	border:0px;
+	float:left;
+}
+.button{
+	width:130px;
+	height:40px;
+	text-decoration:none;
+	font-size:20px;
+	line-height:40px;
+	font-weight:bold;
+	margin-right:10px;
+	border:0px;
+	color:white;
+	cursor:pointer;
+	margin-top:20px;
+}
+
+#message{
+	color:red;
+	font-size:30px;
+}

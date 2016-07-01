@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+body{
+	background-color:#08273b;
+}
+
+.bigDiv{
+	margin:0 auto;
+	width:600px;
+	min-height:500px;
+	height:auto;
+	border:2px solid gray;
+	margin-top:50px;
+	background-color:white;
+}
+
+.title{
+	width:95%;
+	margin:0 auto;
+	text-align:center;
+	font-size:30px;
+	letter-spacing:2px;
+	font-weight:bold;
+	margin-top:10px;
+}
+
+.date{
+	width:95%;
+	margin:0 auto;
+	text-align:center;
+	margin-top:10px;
+	color:gray;
+}
+
+.content{
+	width:95%;
+	margin:0 auto;
+	margin-top:10px;
+	text-indent:2em;
+	line-height:30px;
+	letter-spacing:1px;
+	margin-bottom:10px;
+}
