@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89787734-372e-4aa4-ac90-44b10bf1ee43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/web/WEB-INF/lib/c3p0-0.9.1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/web/WEB-INF/lib/commons-beanutils-20100804.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/web/WEB-INF/lib/commons-dbcp-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/web/WEB-INF/lib/commons-io-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/web/WEB-INF/lib/commons-pool-1.5.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/web/WEB-INF/lib/ezmorph-1.0.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/web/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/help/weixin.sql" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/c3p0-config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/AllDataAge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/FriendUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/News.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/SendMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/Sendqq.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/Settings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/UUIDSetDate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/UserData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/UserLogin.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/UserMan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/messageShare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/weixinUser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/SettingsDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/UUIDSetDateImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/UserDataDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/UserManDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/weixinDaoImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/SettingsDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/UUIDSetDateDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/UserDataDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/UserManDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/weixinDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/factory/Factory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/util/DaoUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/config.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/WXText.iml" afterPath="$PROJECT_DIR$/WXText/WXText.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="8f637b99-f899-47c5-b309-48ee9022d486" name="sdfsdfaadsgasdgasdg (cherry picked from commit 52a1886)" comment="sdfsdfaadsgasdgasdg&#10;(cherry picked from commit 52a1886)" />
     <ignored path="Project1.0.iws" />
@@ -67,7 +32,20 @@
     <favorites_list name="Project1.0" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="HelpServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/helloServer/src/com/wwkj/servlet/HelpServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,7 +65,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="b2b7c5c857c9f7b41e420f58558bd411e98b937d" />
+        <entry key="$PROJECT_DIR$" value="mmm" />
       </map>
     </option>
     <option name="RESET_MODE" value="MIXED" />
@@ -100,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/WXText/src/com/sdingba/util/MessageUtil.java" />
         <option value="$PROJECT_DIR$/WXText/src/com/sdingba/util/MessageUtil2.java" />
         <option value="$PROJECT_DIR$/WXText/src/com/sdingba/util/MyX509TrustManager.java" />
         <option value="$PROJECT_DIR$/WXText/src/com/sdingba/util/SignUtil.java" />
@@ -151,6 +128,7 @@
         <option value="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/SettingsDaoImpl.java" />
         <option value="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/UUIDSetDateImpl.java" />
         <option value="$PROJECT_DIR$/WXText/src/config.properties" />
+        <option value="$PROJECT_DIR$/helloServer/src/com/wwkj/servlet/HelpServlet.java" />
       </list>
     </option>
   </component>
@@ -175,10 +153,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
+    <option name="x" value="1415" />
     <option name="y" value="-4" />
-    <option name="width" value="1317" />
-    <option name="height" value="772" />
+    <option name="width" value="1551" />
+    <option name="height" value="904" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -237,6 +215,82 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WXText" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WXText" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WXText" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WXText" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdingba" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helloServer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1079,7 +1133,7 @@
       <workItem from="1467269265439" duration="1227000" />
       <workItem from="1467272701407" duration="14000" />
       <workItem from="1467345893436" duration="475000" />
-      <workItem from="1467349528495" duration="4687000" />
+      <workItem from="1467349528495" duration="5269000" />
     </task>
     <task id="LOCAL-00001" summary="sdfsdf">
       <created>1467188531971</created>
@@ -1418,7 +1472,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54131000" />
+    <option name="totallyTimeSpent" value="54713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1430,8 +1484,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="-4" width="1317" height="772" extended-state="7" />
-    <editor active="true" />
+    <frame x="1415" y="-4" width="1551" height="904" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1442,12 +1496,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5140187" sideWeight="0.5023318" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816538" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6978193" sideWeight="0.49233845" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5271318" sideWeight="0.49233845" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20872274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24467245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20652898" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20836622" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1514,14 +1568,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oa/src/servlets/ChooseRightPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oa/src/servlets/CreateMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1819,7 +1865,7 @@
         <state relative-caret-position="171">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
-            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1925,6 +1971,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloServer/src/com/wwkj/servlet/HelpServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
