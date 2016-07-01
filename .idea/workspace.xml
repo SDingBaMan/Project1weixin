@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89787734-372e-4aa4-ac90-44b10bf1ee43" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="89787734-372e-4aa4-ac90-44b10bf1ee43" name="Default" comment="" />
     <list id="8f637b99-f899-47c5-b309-48ee9022d486" name="sdfsdfaadsgasdgasdg (cherry picked from commit 52a1886)" comment="sdfsdfaadsgasdgasdg&#10;(cherry picked from commit 52a1886)" />
     <ignored path="Project1.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -153,10 +151,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1415" />
+    <option name="x" value="49" />
     <option name="y" value="-4" />
-    <option name="width" value="1551" />
-    <option name="height" value="904" />
+    <option name="width" value="1317" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1133,7 +1131,7 @@
       <workItem from="1467269265439" duration="1227000" />
       <workItem from="1467272701407" duration="14000" />
       <workItem from="1467345893436" duration="475000" />
-      <workItem from="1467349528495" duration="5269000" />
+      <workItem from="1467349528495" duration="5387000" />
     </task>
     <task id="LOCAL-00001" summary="sdfsdf">
       <created>1467188531971</created>
@@ -1436,7 +1434,14 @@
       <option name="project" value="LOCAL" />
       <updated>1467269692028</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="微信添加工厂模式开始">
+      <created>1467357513059</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1467357513059</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1472,7 +1477,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54713000" />
+    <option name="totallyTimeSpent" value="54831000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1484,7 +1489,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1415" y="-4" width="1551" height="904" extended-state="6" />
+    <frame x="49" y="-4" width="1317" height="772" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1496,12 +1501,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5140187" sideWeight="0.5023318" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816538" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5271318" sideWeight="0.49233845" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.635514" sideWeight="0.49233845" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20872274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20652898" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24467245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20836622" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1530,7 +1535,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="csacs" />
     <MESSAGE value="vvvv" />
     <MESSAGE value="eregtergr" />
     <MESSAGE value="cdvvfdv" />
@@ -1555,7 +1559,8 @@
     <MESSAGE value="cxcxccjllll" />
     <MESSAGE value="fffff" />
     <MESSAGE value="llll" />
-    <option name="LAST_COMMIT_MESSAGE" value="llll" />
+    <MESSAGE value="微信添加工厂模式开始" />
+    <option name="LAST_COMMIT_MESSAGE" value="微信添加工厂模式开始" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
