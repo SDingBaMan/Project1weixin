@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89787734-372e-4aa4-ac90-44b10bf1ee43" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/setDataYan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/server/Impl/weixinDServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/server/weixinDService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/util/StringDataListUuils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/util/TimeUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/WXText_war_exploded/WEB-INF/classes/com/sdingba/server/CoreService.class" afterPath="$PROJECT_DIR$/out/artifacts/WXText_war_exploded/WEB-INF/classes/com/sdingba/server/CoreService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/WXText_war_exploded/WEB-INF/classes/com/sdingba/servlet/CoreServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/WXText_war_exploded/WEB-INF/classes/com/sdingba/servlet/CoreServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/WXText_war_exploded/WEB-INF/classes/test/test1.class" afterPath="$PROJECT_DIR$/out/artifacts/WXText_war_exploded/WEB-INF/classes/test/test1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WXText/com/sdingba/server/CoreService.class" afterPath="$PROJECT_DIR$/out/production/WXText/com/sdingba/server/CoreService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WXText/com/sdingba/servlet/CoreServlet.class" afterPath="$PROJECT_DIR$/out/production/WXText/com/sdingba/servlet/CoreServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/WXText/test/test1.class" afterPath="$PROJECT_DIR$/out/production/WXText/test/test1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/help/weixin.sql" afterPath="$PROJECT_DIR$/WXText/help/weixin.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/Settings.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Bean/Settings.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/SettingsDaoImpl.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/SettingsDaoImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/UUIDSetDateImpl.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/UUIDSetDateImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/UserDataDaoImpl.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/UserDataDaoImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/weixinDaoImpl.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/Impl/weixinDaoImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/SettingsDao.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/SettingsDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/UUIDSetDateDao.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/UUIDSetDateDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/UserDataDao.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/UserDataDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/weixinDao.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/Dao/weixinDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/server/CoreService.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/server/CoreService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/com/sdingba/servlet/CoreServlet.java" afterPath="$PROJECT_DIR$/WXText/src/com/sdingba/servlet/CoreServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/config.properties" afterPath="$PROJECT_DIR$/WXText/src/config.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WXText/src/test/test1.java" afterPath="$PROJECT_DIR$/WXText/src/test/test1.java" />
     </list>
     <list id="8f637b99-f899-47c5-b309-48ee9022d486" name="sdfsdfaadsgasdgasdg (cherry picked from commit 52a1886)" comment="sdfsdfaadsgasdgasdg&#10;(cherry picked from commit 52a1886)" />
     <ignored path="Project1.0.iws" />
@@ -115,7 +89,7 @@
       <file leaf-file-name="CoreService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WXText/src/com/sdingba/server/CoreService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
+            <state relative-caret-position="-95">
               <caret line="80" column="31" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
               <folding />
             </state>
@@ -1417,7 +1391,7 @@
       <workItem from="1467382144352" duration="39000" />
       <workItem from="1467382203724" duration="30000" />
       <workItem from="1467382268379" duration="100000" />
-      <workItem from="1467433984018" duration="2674000" />
+      <workItem from="1467433984018" duration="2926000" />
     </task>
     <task id="LOCAL-00001" summary="sdfsdf">
       <created>1467188531971</created>
@@ -1763,7 +1737,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69539000" />
+    <option name="totallyTimeSpent" value="69791000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1787,8 +1761,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20542635" sideWeight="0.5036642" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816538" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6343669" sideWeight="0.49233845" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4250646" sideWeight="0.49633577" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.68217057" sideWeight="0.50033313" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4250646" sideWeight="0.4996669" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3271028" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2300,7 +2274,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WXText/src/com/sdingba/server/CoreService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="-95">
           <caret line="80" column="31" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
           <folding />
         </state>
