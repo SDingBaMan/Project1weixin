@@ -48,7 +48,8 @@ public class test1 {
 	 */
 
 	public static void main(String[] args) throws UnsupportedEncodingException {
-		String content = URLEncoder.encode("你 好 ", "UTF-8");
+		String content = URLEncoder.encode("l:5", "UTF-8");
+//		String content = URLEncoder.encode("你 好 ", "UTF-8");
 		//<ToUserName><![CDATA[Alphabet]]></ToUserName>"              公共号
 		//"<FromUserName><![CDATA[SDingBa]]></FromUserName>"     普通用户
 		String param = "<xml><ToUserName><![CDATA[Alphabet]]></ToUserName>"

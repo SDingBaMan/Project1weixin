@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+  <default-config>
+    <property name="driverClass">com.mysql.jdbc.Driver</property>
+    <property name="jdbcUrl">jdbc:mysql:///Alphabet?useUnicode=true&amp;characterEncoding=utf-8&amp;zeroDateTimeBehavior=convertToNull</property>
+    <property name="user">root</property>
+    <property name="password">root</property>
+
+    <property name="initialPoolSize">10</property>
+    <property name="maxIdleTime">40</property>
+    <property name="maxPoolSize">100</property>
+    <property name="minPoolSize">8</property>
+
+  </default-config>
+</c3p0-config>
+	

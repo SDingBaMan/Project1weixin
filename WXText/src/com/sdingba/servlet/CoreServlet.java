@@ -30,10 +30,10 @@ public class CoreServlet extends HttpServlet {
 		String echostr = req.getParameter("echostr");
 		System.out.println("get");
 		PrintWriter out = resp.getWriter();
-		if(SignUtil.checkSignature(signature,timestamp,nonce)){
+//		if(SignUtil.checkSignature(signature,timestamp,nonce)){
 			//调用核心服务类接收处理请求
 			out.print(echostr);
-		}
+//		}
 		out.close();
 		out = null;
 
@@ -57,11 +57,11 @@ public class CoreServlet extends HttpServlet {
 
 		PrintWriter out =resp.getWriter();
 			System.out.println("sdfsdf");
-		if(SignUtil.checkSignature(signature,timestamp,nonce)){
+//		if(SignUtil.checkSignature(signature,timestamp,nonce)){
 		//调用核心服务类接受处理请求
 		String respXml = CoreService.processRequest(req);
 		out.print(respXml);
-			}
+//			}
 		out.close();
 		out=null;
 

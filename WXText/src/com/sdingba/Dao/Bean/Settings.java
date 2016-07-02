@@ -1,6 +1,7 @@
 package com.sdingba.Dao.Bean;
 
 import java.io.Serializable;
+import java.sql.Date;
 
 /**
  * Created by su on 16-6-2.
@@ -16,15 +17,18 @@ public class Settings implements Serializable {
 
     /**
      * 吸烟时间（总共的时间）
-     * 
      */
     private String timeNum;
 
-//    /**
+    //    /**
 //     * 设置的次数。
 //     */
-//    private String setNumber;       // TODO: 16-6-2 删除 数据库 这一行
+    private String timeSetNum;
 
+    private Date beginDatetime;
+
+
+    private Date endDatetime;
 
     public String getSid() {
         return sid;
@@ -48,5 +52,29 @@ public class Settings implements Serializable {
 
     public void setTimeNum(String timeNum) {
         this.timeNum = timeNum;
+    }
+
+    public String getTimeSetNum() {
+        return timeSetNum;
+    }
+
+    public void setTimeSetNum(String timeSetNum) {
+        this.timeSetNum = timeSetNum;
+    }
+
+    public Date getBeginDatetime() {
+        return beginDatetime;
+    }
+
+    public void setBeginDatetime(Date beginDatetime) {
+        this.beginDatetime = beginDatetime;
+    }
+
+    public Date getEndDatetime() {
+        return endDatetime;
+    }
+
+    public void setEndDatetime(Date endDatetime) {
+        this.endDatetime = endDatetime;
     }
 }
